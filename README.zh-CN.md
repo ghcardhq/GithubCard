@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://githubcard.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://githubcard.com/brand/githubcard-lockup-white.svg">
+      <img src="https://githubcard.com/brand/githubcard-lockup.svg" alt="GitHubCard" height="48">
+    </picture>
+  </a>
+</p>
+
 # GitHubCard Showcase
 
 GitHubCard is a drag-and-drop GitHub profile README and repo card generator — one live card instead of a stack of README embeds.
